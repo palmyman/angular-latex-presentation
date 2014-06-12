@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.24pt}
+\select@language {czech}
+\beamer@sectionintoc {1}{Co je to Angular JS?}{3}{0}{1}
+\beamer@sectionintoc {2}{Jak za\IeC {\v c}\IeC {\'\i }t?}{4}{0}{2}
+\beamer@sectionintoc {3}{Two-way data binding}{5}{0}{3}
+\beamer@sectionintoc {4}{Ot\IeC {\'a}zky}{7}{0}{4}
